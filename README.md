@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 😈 I'm currently a Ph.D. year 1 student at CUHKSZ.
-- 🤗 I'm broadly interested in MLsys, including distributed LLM Serving, MoE serving, kernel improvements with Triton, parallelism performance improvements ... 
+- 😈 I'm currently a Ph.D. year 2 student at CUHKSZ.
+- 🤗 I'm broadly interested in MLsys, including distributed LLM Serving, MoE serving, RDMA communication, parallelism performance improvements ... 
 
 ## 🎓 Education
 
